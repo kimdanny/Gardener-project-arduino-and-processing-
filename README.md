@@ -6,4 +6,4 @@ Function:
   2. Detects the change of light intensity
   3. LEDs are lit up according to the change of the temperature and light intensity
   4. Piezo Buzzer rings once red LED is lit up
-  5. Serial communication with Processing allows two graphs(temperature graph and light graph) be drawn in the window.
+  5. Serial communication with Processing allows two graphs(temperature graph and light graph) to be drawn in the window.
